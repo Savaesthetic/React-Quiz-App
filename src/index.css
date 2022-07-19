@@ -45,6 +45,7 @@ nav a:hover, nav a:focus {
 
 .quiz-list {
     width: 35%;
+    min-width: 400px;
 }
 
 .quiz-node {
@@ -135,6 +136,7 @@ nav a:hover, nav a:focus {
     background-color: #183059;
     border-radius: 10px;
     padding: 20px;
+    min-width: 400px;
 }
 
 .create-quiz-container h1 {
@@ -203,6 +205,7 @@ Link {
 .question-container {
     height: 400px;
     width: 35%;
+    min-width: 400px;
 }
 
 .edit-question-button {
@@ -310,6 +313,8 @@ Link {
 
 .edit-question-container {
     width: 25%;
+    min-width: 400px;
+
 }
 
 .edit-question-buttons {
