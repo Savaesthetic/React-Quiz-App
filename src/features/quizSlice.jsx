@@ -97,7 +97,7 @@ const initialState = [
                 ]
             }
         ],
-        img: "/static/template.jpg",
+        img: "/static/subtraction.png",
         favorited: false
     }
 ]
